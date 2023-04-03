@@ -6,3 +6,4 @@ This dataset contains 374 images containing flood and non-flood scenarios. It ha
 
 Proposed FloodGAN architecture:
 ![FloodGAN_architecture](https://user-images.githubusercontent.com/116564531/229504126-34220644-ca61-46ec-ad9c-b3092e148950.png)
+*Training Conditional GAN Pix2Pix to generate a new image from a given semantic mask. UNet and Patch-GAN are used as the generator and discriminator networks, respectively.*
